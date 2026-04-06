@@ -16,7 +16,7 @@ carefully about data in very different contexts.
 - Exploring how far AI can go in replacing or augmenting data work (and where it falls short)
 - Building web visibility: website, GitHub, LinkedIn, and a Substack on the way
 
-**Domains I've worked in**
+**Domains I've worked in** \
 Gaming analytics · Clinical & biomedical data · Programmatic advertising · NLP research (UPC/TALP)
 
 ---
