@@ -13,7 +13,7 @@ carefully about data in very different contexts.
 
 **Right now**
 - Deepening DS/DE knowledge by applying new concepts to real use cases at Madbox
-- Exploring how far AI can go in replacing or augmenting data work — and where it falls short
+- Exploring how far AI can go in replacing or augmenting data work (and where it falls short)
 - Building web visibility: website, GitHub, LinkedIn, and a Substack on the way
 
 **Domains I've worked in**
