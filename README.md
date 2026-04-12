@@ -15,9 +15,9 @@ carefully about data in very different contexts.
 
 | Project | Use case | Stack | Key result |
 |---|---|---|---|
-| [pollution-prediction](https://github.com/mponsclo/pollution-prediction) | Air quality forecasting + anomaly detection | LightGBM, dbt, BigQuery, Terraform, Cloud Run | 25-station ensemble, deployed to Cloud Run |
-| [caixabank-data-ai-hackathon](https://github.com/mponsclo/caixabank-data-ai-hackathon) | Fraud detection + expense forecasting | LightGBM, dbt, DuckDB, LangChain, BigQuery | Fraud BA=0.97, forecasting R2=0.76 |
-| [inditex-ecommerce-recommender-system](https://github.com/mponsclo/inditex-ecommerce-recommender-system) | Session-based product recommendations | dbt, DuckDB, collaborative filtering | Built for NUWE/Inditex hackathon |
+| [bigquery-air-quality-forecasting](https://github.com/mponsclo/bigquery-air-quality-forecasting) | Air quality forecasting + anomaly detection | LightGBM, dbt, BigQuery, Terraform, Cloud Run | 25-station ensemble, deployed to Cloud Run |
+| [banking-fraud-detection-pipeline](https://github.com/mponsclo/banking-fraud-detection-pipeline) | Fraud detection + expense forecasting | LightGBM, dbt, DuckDB, LangChain, BigQuery | Fraud BA=0.97, forecasting R2=0.76 |
+| [session-recommender-lambdarank](https://github.com/mponsclo/session-recommender-lambdarank) | Session-based product recommendations | LightGBM LambdaRank, Item2Vec, dbt, DuckDB | NDCG@5 = 0.377, Hit Rate@5 = 76% |
 | [temporal-association-rules-multimorbidity](https://github.com/mponsclo/temporal-association-rules-multimorbidity) | Clinical pattern mining from EHR data | Python, Apriori extensions, Fleiss Kappa | MSc thesis, validated with physicians |
 
 ---
