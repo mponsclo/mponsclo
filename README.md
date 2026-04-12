@@ -18,17 +18,15 @@ carefully about data in very different contexts.
 | [bigquery-air-quality-forecasting](https://github.com/mponsclo/bigquery-air-quality-forecasting) | Air quality forecasting + anomaly detection | LightGBM, dbt, BigQuery, Terraform, Cloud Run | 25-station ensemble, deployed to Cloud Run |
 | [banking-fraud-detection-pipeline](https://github.com/mponsclo/banking-fraud-detection-pipeline) | Fraud detection + expense forecasting | LightGBM, dbt, DuckDB, LangChain, BigQuery | Fraud BA=0.97, forecasting R2=0.76 |
 | [session-recommender-lambdarank](https://github.com/mponsclo/session-recommender-lambdarank) | Session-based product recommendations | LightGBM LambdaRank, Item2Vec, dbt, DuckDB | NDCG@5 = 0.377, Hit Rate@5 = 76% |
+| [music-streaming-churn-prediction](https://github.com/mponsclo/music-streaming-churn-prediction) | Subscription churn prediction (KKBox, WSDM Cup 2018) | LightGBM, Optuna, SHAP, dbt, DuckDB | ROC-AUC 0.924 on temporal holdout |
 | [temporal-association-rules-multimorbidity](https://github.com/mponsclo/temporal-association-rules-multimorbidity) | Clinical pattern mining from EHR data | Python, Apriori extensions, Fleiss Kappa | MSc thesis, validated with physicians |
 
 ---
 
 **Right now**
-- Building a churn prediction system on real subscription data (KKBox) with
-  a Pub/Sub ingestion layer, BigQuery feature store, and LightGBM + SHAP
 - Deepening DS/DE knowledge by applying new concepts to real use cases at Madbox
 - Exploring how far AI can go in replacing or augmenting data work (and where
   it falls short)
-- Building web visibility: website, GitHub, LinkedIn, and a Substack on the way
 
 **Domains I've worked in**
 
