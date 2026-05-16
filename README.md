@@ -58,4 +58,4 @@ Smadex, and a clinical ML internship at Predictheon.
 
 ---
 
-📎 [LinkedIn](https://linkedin.com/in/mponsclo) · 🌐 [mponscloq.com](https://www.mponsclo.com)
+📎 [LinkedIn](https://linkedin.com/in/mponsclo) · 🌐 [mponsclo.com](https://www.mponsclo.com)
